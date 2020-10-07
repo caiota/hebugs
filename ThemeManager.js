@@ -67,7 +67,7 @@ function SetTema() {
     if (temaAtual == Configuracoes.themeLight) {
         console.log("Aplicando Tema " + Configuracoes.themeLight);
         app.SetTheme("Light");
-        if(layMain!=undefined){
+        if(txtMenu!=undefined){
         txtMenu.SetTextColor("#eeeeee");
         }
         if(menuFloat!=undefined){
@@ -92,7 +92,7 @@ function SetTema() {
         if(layDrawer!=undefined){
         layDrawer.SetBackColor("#e6e6e6");
         }
-        if(layMain!=undefined){
+        if(drawerScroll!=undefined){
         drawerScroll.SetBackColor("#e6e6e6");
         }
         if(layDrawerTop!=undefined){
@@ -123,7 +123,7 @@ function SetTema() {
         console.log("Aplicando Tema " + Configuracoes.themeDark);
         app.SetTheme("dark");
         
-        if(layMain!=undefined){
+        if(txtMenu!=undefined){
         txtMenu.SetTextColor("#eeeeee");
         }
         if(menuFloat!=undefined
@@ -148,7 +148,7 @@ function SetTema() {
         if(layDrawer!=undefined){
         layDrawer.SetBackColor("#141414");
         }
-        if(layMain!=undefined){
+        if(drawerScroll!=undefined){
         drawerScroll.SetBackColor("#e6e6e6");
         }
         if(layDrawerTop!=undefined){
