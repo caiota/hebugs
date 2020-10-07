@@ -126,7 +126,7 @@ function SetTema() {
         if(txtMenu!=undefined){
         txtMenu.SetTextColor("#eeeeee");
         }
-        if(menuFloat!=undefined
+        if(menuFloat!=undefined){
         menuFloat.SetTextColor("#eeeeee");
         menuFloat.SetStyle("#858181", "#858181", 50, "#858181", 0, 0);
         }
