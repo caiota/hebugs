@@ -67,112 +67,106 @@ function SetTema() {
     if (temaAtual == Configuracoes.themeLight) {
         console.log("Aplicando Tema " + Configuracoes.themeLight);
         app.SetTheme("Light");
-        if(txtMenu!=undefined){
+        if(txtMenu!=undefined||txtMenu!=null){
         txtMenu.SetTextColor("#eeeeee");
         }
-        if(menuFloat!=undefined){
+        if(menuFloat!=undefined||menuFloat!=null){
         menuFloat.SetStyle("#eeeeee", "#eeeeee", 50, "#eeeeee", 0, 0);
         menuFloat.SetTextColor("#012a36");
         }
-        if(layMain!=undefined){
+        if(layMain!=undefined||layMain!=null){
         layMain.SetBackColor("#e6e6e6");
         }
-        if(layHoriz!=undefined){
+        if(layHoriz!=undefined||layHoriz!=null){
         layHoriz.SetBackColor("#4285F4");
         }
-        if(lstMenuMain!=undefined){
+        if(lstMenuMain!=undefined||lstMenuMain!=null){
         lstMenuMain.SetTextColor("#000000");
         }
-        if(lstOutrosItems!=undefined){
+        if(lstOutrosItems!=undefined||lstOutrosItems!=null){
         lstOutrosItems.SetTextColor("#000000");
         }
-        if(drawerScroll!=undefined){
-        drawerScroll.SetBackColor("White");
-        }
-        if(layDrawer!=undefined){
+        if(layDrawer!=undefined||layDrawer!=null){
         layDrawer.SetBackColor("#e6e6e6");
         }
-        if(drawerScroll!=undefined){
+        if(drawerScroll!=undefined||drawerScroll!=null){
         drawerScroll.SetBackColor("#e6e6e6");
         }
-        if(layDrawerTop!=undefined){
+        if(layDrawerTop!=undefined||layDrawerTop!=null){
         layDrawerTop.SetBackColor("#4285F4");
         }
-        if(latencia!=undefined){
+        if(latencia!=undefined||latencia!=null){
         latencia.SetTextColor("White");
         }
-        if(layMenu!=undefined){
+        if(layMenu!=undefined||layMenu!=null){
         layMenu.SetBackColor("#e6e6e6");
         }
-        if(lay!=undefined){
+        if(lay!=undefined||lay!=null){
         lay.SetBackColor("#e8e8e8");
         }
-        if(layScroll!=undefined){
+        if(layScroll!=undefined||layScroll!=null){
         layScroll.SetBackColor("#e8e8e8");
         }
-        if(txt!=undefined){
+        if(txt!=undefined||txt!=null){
         txt.SetTextColor("#444444");
         }
-        if(layContent!=undefined){
+        if(layContent!=undefined||layContent!=null){
         layContent.SetBackColor("#e8e8e8");
         }
-        if(ram!=undefined){
+        if(ram!=undefined||ram!=null){
         ram.SetTextColor("White");
         }
     } else {
         console.log("Aplicando Tema " + Configuracoes.themeDark);
         app.SetTheme("dark");
         
-        if(txtMenu!=undefined){
+        if(txtMenu!=undefined||txtMenu!=null){
         txtMenu.SetTextColor("#eeeeee");
         }
-        if(menuFloat!=undefined){
+        if(menuFloat!=undefined||menuFloat!=null){
         menuFloat.SetTextColor("#eeeeee");
         menuFloat.SetStyle("#858181", "#858181", 50, "#858181", 0, 0);
         }
-        if(layMain!=undefined){
+        if(layMain!=undefined||layMain!=null){
         layMain.SetBackColor("#212020");
         }
-        if(layHoriz!=undefined){
+        if(layHoriz!=undefined||layHoriz!=null){
         layHoriz.SetBackColor("#383838");
         }
-        if(lstMenuMain!=undefined){
+        if(lstMenuMain!=undefined||lstMenuMain!=null){
         lstMenuMain.SetTextColor("#d1cfcf");
         }
-        if(lstOutrosItems!=undefined){
+        if(lstOutrosItems!=undefined||lstOutrosItems!=null){
         lstOutrosItems.SetTextColor("#d1cfcf");
         }
-        if(drawerScroll!=undefined){
-        drawerScroll.SetBackColor("141414");
-        }
-        if(layDrawer!=undefined){
+        if(layDrawer!=undefined||layDrawer!=null){
         layDrawer.SetBackColor("#141414");
         }
-        if(drawerScroll!=undefined){
+        if(drawerScroll!=undefined||drawerScroll!=null){
         drawerScroll.SetBackColor("#e6e6e6");
         }
-        if(layDrawerTop!=undefined){
+        if(layDrawerTop!=undefined||layDrawerTop!=null){
         layDrawerTop.SetBackColor("#4285F4");
         }
-        if(latencia!=undefined){
+        if(latencia!=undefined||latencia!=null){
         latencia.SetTextColor("White");
         }
-        if(layMenu!=undefined){
+        if(layMenu!=undefined||layMenu!=null){
         layMenu.SetBackColor("#141414");
         }
-        if(lay!=undefined){
+        if(lay!=undefined||lay!=null){
         lay.SetBackColor("#141414");
         }
-        if(layScroll!=undefined){
+        if(layScroll!=undefined||layScroll!=null){
         layScroll.SetBackColor("#141414");
         }
-        if(txt!=undefined){
+        if(txt!=undefined||txt!=null){
         txt.SetTextColor("#d1cfcf");
         }
-        if(layContent!=undefined){
+        if(layContent!=undefined||layContent!=null){
         layContent.SetBackColor("#141414");
         }
-        if(ram!=undefined){
+        if(ram!=undefined||ram!=null){
         ram.SetTextColor("d1cfcf");
         }
         
