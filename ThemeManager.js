@@ -68,8 +68,10 @@ function SetTema() {
         console.log("Aplicando Tema " + Configuracoes.themeLight);
         app.SetTheme("Light");
         txtMenu.SetTextColor("#eeeeee");
+        if(menuFloat!=undefined){
         menuFloat.SetStyle("#eeeeee", "#eeeeee", 50, "#eeeeee", 0, 0);
         menuFloat.SetTextColor("#012a36");
+        }
         layMain.SetBackColor("#e6e6e6");
         layHoriz.SetBackColor("#4285F4");
         lstMenuMain.SetTextColor("#000000");
@@ -91,8 +93,10 @@ function SetTema() {
         layMain.SetBackColor("#212020");
         layHoriz.SetBackColor("#383838");
         txtMenu.SetTextColor("#858181");
+        if(menuFloat!=undefined){
         menuFloat.SetTextColor("#eeeeee");
         menuFloat.SetStyle("#858181", "#858181", 50, "#858181", 0, 0);
+        }
         lstMenuMain.SetTextColor("#d1cfcf");
         lstOutrosItems.SetTextColor("#d1cfcf");
         drawerScroll.SetBackColor("#141414");
