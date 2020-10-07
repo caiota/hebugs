@@ -146,7 +146,7 @@ function SetTema() {
         drawerScroll.SetBackColor("#e6e6e6");
         }
         if(layDrawerTop!=undefined||layDrawerTop!=null){
-        layDrawerTop.SetBackColor("#4285F4");
+        layDrawerTop.SetBackColor("#0a1830");
         }
         if(latencia!=undefined||latencia!=null){
         latencia.SetTextColor("White");
@@ -167,7 +167,7 @@ function SetTema() {
         layContent.SetBackColor("#141414");
         }
         if(ram!=undefined||ram!=null){
-        ram.SetTextColor("d1cfcf");
+        ram.SetTextColor("#d1cfcf");
         }
         
     }
