@@ -32,7 +32,6 @@ function ConverterID() {
 
 }
 var parametros, id;
-
 function Converter() {
     id = pidTxt.GetText().replace("#", "%23");
 
