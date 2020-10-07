@@ -149,7 +149,7 @@ function SetTema() {
         layDrawerTop.SetBackColor("#0a1830");
         }
         if(latencia!=undefined||latencia!=null){
-        latencia.SetTextColor("White");
+        latencia.SetTextColor("#d1cfcf");
         }
         if(layMenu!=undefined||layMenu!=null){
         layMenu.SetBackColor("#141414");
