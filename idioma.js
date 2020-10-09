@@ -53,12 +53,8 @@ if (config.IDIOMA == "Portugues - Brasil") {
         latenciaTxt: {
             offline: "Desconectado",
             conectando: "Conectando",
-            sa: {
-                ping: "Latência (SA): "
-            },
-            na: {
-                ping: "Latência (NA): "
-            },
+            server: "Latência (x): "
+            
         },
 
         ramTxt: {
