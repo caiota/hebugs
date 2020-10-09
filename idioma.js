@@ -130,10 +130,10 @@ if (config.IDIOMA == "Portugues - Brasil") {
 
     var text = "<b><p><font color=#4285F4><big>Heroes Evolved Bugs</big></font></p>" +
         "Bem Vindo! Clique no Menu á esquerda para começar a usar o App</p>" +
-        "<p>Veja o Site do Aplicativo para Atualizações, quem sabe <a href=https://wildrift.tk/bugs>Site Oficial</a></p>" +
+        "<p>Veja o Site do Aplicativo para Atualizações, quem sabe <a href=https://heroesevolved.tk>Site Oficial</a></p>" +
         "<br><br><p><font color=#4285F4><big><big><b>&larr;</b></big></big> Arraste a tela da " +
         "esquerda e escolha uma <b>Opção</b></font></p><br><br>" +
-        "Clique no Texto Latência para Alterar entre <a href=at>Servidor SA</a> e <a href=at>Servidor NA</a> e Clique e Segure para mostrar o Histórico de Ping da Sessão Atual<br><br>Se Você gosta do Aplicativo, considere doar qualquer valor para me ajudar a continuar trabalhando nele: <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V4E5FETXV3EMC'>Doar No PayPal</a> / <a href='https://picpay.me/caiota.br'>Doar no PicPay</a>"
+        "Clique no Texto Latência para Alterar entre os <a href=at>Servidores </a> <a href=at>SA, NA, EU ,TH , ASIA 1 e ASIA 2</a> e Clique e Segure para mostrar o Histórico de Ping da Sessão Atual<br><br>Se Você gosta do Aplicativo, considere doar qualquer valor para me ajudar a continuar trabalhando nele: <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V4E5FETXV3EMC'>Doar No PayPal</a> / <a href='https://picpay.me/caiota.br'>Doar no PicPay</a>"
 
 
     var ScreensIdioma = {
@@ -231,7 +231,7 @@ if (config.IDIOMA == "Portugues - Brasil") {
     var InfoIdioma = {
         descricao: "<b><p><font color=#049dbf><big><big>Heroes Evolved Bugs v" + versao + "</big></big></font></p>" +
             "Desenvolvido Por <a href=https://www.facebook.com/CaiotaGames>Caiota</a></p>" +
-            "<p>Veja o Site do Aplicativo para Atualizações <a href=https://wildrift.tk/bugs>Site Oficial</a>.</p>" +
+            "<p>Veja o Site do Aplicativo para Atualizações <a href=https://heroesevolved.tk>Site Oficial</a>.</p>" +
             "<br><p><font color=#78a9fa>Este app tem Permissão da " +
             "NetDragon para funcionar, portanto ele não oferece qualquer risco de <b>banimento</b> na sua conta.</font></p>",
         picpay: "<b>[fa-heart] Doe no Picpay"
@@ -375,10 +375,10 @@ if (config.IDIOMA == "Español") {
 
     var text = "<b><p><font color=#4285F4><big>Heroes Evolved Bugs</big></font></p>" +
         "¡Bienvenido! Haga clic en el menú de la izquierda para comenzar a usar la aplicación</p>" +
-        "<p>Consulte el sitio de la aplicación para obtener actualizaciones <a href=https://wildrift.tk/bugs>Web oficial</a></p>" +
+        "<p>Consulte el sitio de la aplicación para obtener actualizaciones <a href=https://heroesevolved.tk>Web oficial</a></p>" +
         "<br><br><p><font color=#4285F4><big><big><b>&larr;</b></big></big> Arrastra la pantalla " +
         "a la izquierda y elija una <b>Opción</b></font></p><br><br>" +
-        "Haga clic en el texto de latencia para cambiar entre <a href=at>Servidor SA</a> y <a href=at>NA Server</a> e Haga clic y mantenga presionado para mostrar el historial de ping de la sesión actual<br><br> Si le gusta la aplicación, considere donar cualquier cantidad para ayudarme a seguir trabajando en ella: <a href='https://www.paypal.com/cgi-bin/webscr?cmd _s-xclick&protected_button_id=V4E5FETXV3EMC'> Done en PayPal </a> / <a href='https://picpay.me/caiota.br'> Done en PicPay </a>"
+        "Haga clic en el texto de latencia para cambiar entre entre <a href=at> servidores </a> <a href=at> SA, NA, EU, TH, ASIA 1 y ASIA 2 </a> e Haga clic y mantenga presionado para mostrar el historial de ping de la sesión actual<br><br> Si le gusta la aplicación, considere donar cualquier cantidad para ayudarme a seguir trabajando en ella: <a href='https://www.paypal.com/cgi-bin/webscr?cmd _s-xclick&protected_button_id=V4E5FETXV3EMC'> Done en PayPal </a> / <a href='https://picpay.me/caiota.br'> Done en PicPay </a>"
 
 
     var ScreensIdioma = {
@@ -482,7 +482,7 @@ if (config.IDIOMA == "Español") {
     var InfoIdioma = {
         descricao: "<b><p><font color=#049dbf><big><big>Heroes Evolved Bugs v" + versao + "</big></big></font></p>" +
             "Desarrollado por <a href=https://www.facebook.com/CaiotaGames>Caiota</a></p>" +
-            "<p>Consulte el sitio de la aplicación para obtener actualizaciones <a href=https://wildrift.tk/bugs>Site Oficial</a>.</p>" +
+            "<p>Consulte el sitio de la aplicación para obtener actualizaciones <a href=https://heroesevolved.tk>Site Oficial</a>.</p>" +
             "<br><p><font color=#78a9fa>Esta aplicación tiene permiso de " +
             "NetDragon para que funcione, por lo que no ofrece ningún riesgo de <b> prohibición </b> en su cuenta.</font></p>",
         picpay: "<b>[fa-heart] Donar en Picpay"
@@ -625,10 +625,10 @@ if (config.IDIOMA == "English") {
 
     var text = "<b><p><font color=#4285F4><big>Heroes Evolved Bugs</big></font></p>" +
         "Welcome! Click on the Menu on the left to start using the App</p>" +
-        "<p>See the Application Site for Updates <a href=https://wildrift.tk/bugs>Web oficial</a></p>" +
+        "<p>See the Application Site for Updates <a href=https://heroesevolved.tk>Web oficial</a></p>" +
         "<br><br><p><font color=#4285F4><big><big><b>&larr;</b></big></big> Drag the screen " +
         "left and choose an Option</b></font></p><br><br>" +
-        "Click on the Latency Text to Change between <a href=at>SA Server</a> and <a href=at> NA Server</a> and Click and Hold to show Ping History for the Current Session<br> <br> If you like the App, consider donating any amount to help me keep working on it: <a href='https: //www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V4E5FETXV3EMC '> Donate on PayPal </a> / <a href='https://picpay.me/caiota.br'> Donate on PicPay </a>"
+        "Click on the Latency Text to Change between <a href=at> Servers </a> <a href=at> SA, NA, EU, TH, ASIA 1 and ASIA 2 </a> and Click and Hold to show Ping History for the Current Session<br> <br> If you like the App, consider donating any amount to help me keep working on it: <a href='https: //www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V4E5FETXV3EMC '> Donate on PayPal </a> / <a href='https://picpay.me/caiota.br'> Donate on PicPay </a>"
 
 
 
@@ -736,7 +736,7 @@ if (config.IDIOMA == "English") {
     var InfoIdioma = {
         descricao: "<b><p><font color=#049dbf><big><big>Heroes Evolved Bugs v" + versao + "</big></big></font></p>" +
             "Developed by <a href=https://www.facebook.com/CaiotaGames>Caiota</a></p>" +
-            "<p>Check the application site for updates <a href=https://wildrift.tk/bugs>Official site</a>.</p>" +
+            "<p>Check the application site for updates <a href=https://heroesevolved.tk>Official site</a>.</p>" +
             "<br><p><font color=#78a9fa>This application has permission of NetDragon" +
             "  for it to work, so it does not offer any risk of <b> banishment </b>in your account.</font></p>",
         picpay: "<b>[fa-heart] Donate at Picpay"
